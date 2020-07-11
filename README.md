@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">TBomb v3.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -70,8 +70,8 @@ To use the bomber type the following commands in Linux terminal:
 sudo apt install git
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
+./TBomb.sh
+
 ```
 
 ### > For macOS:
@@ -103,7 +103,7 @@ sudo bash TBomb.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href=https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ">here</a><br>
+- Watch Indian Bombing Method <a href=https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ
 - Watch International Bombing Method <a href="https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ
 ## CONTRIBUTORS:
 

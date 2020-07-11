@@ -53,7 +53,6 @@ pkg install git
 pkg install python
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
-chmod +x TBomb.sh
 ./TBomb.sh
 ```
 
@@ -91,7 +90,7 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
-chmod +x TBomb.sh
+./TBomb.sh
 
 # Missing Tools on MacOS
 
@@ -104,40 +103,14 @@ sudo bash TBomb.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
-
+- Watch Indian Bombing Method <a href=https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ">here</a><br>
+- Watch International Bombing Method <a href="https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ
 ## CONTRIBUTORS:
 
-- **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
+- **hacking my**<br>
 
-- **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
-
-- **The Black Hacker Roxstar**<br>
-
-- **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
-
-- **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
-
-## Donators:
-
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
-
-**[@] SC AMAN**
-
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
+-
+                 Mail: sahurushi@gmail.com
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
-```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
-
-<!-- L3yvMKWbLJAermqvZT1vKmDkGwqsZmD1rK0= -->
+hacking my https://www.youtube.com/channel/UCsX_WoqLziKJX7MurdND_uQ
+hackig my 
